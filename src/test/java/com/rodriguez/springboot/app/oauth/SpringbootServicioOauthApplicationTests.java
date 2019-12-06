@@ -1,12 +1,12 @@
 package com.rodriguez.springboot.app.oauth;
 
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringbootServicioOauthApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
